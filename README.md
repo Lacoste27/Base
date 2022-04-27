@@ -1,5 +1,5 @@
 # Base
-* * This is a library that allows access to only postgres databases by adding the Base.jar file in a java project.
+* This is a library that allows access to only postgres databases by adding the Base.jar file in a java project.
 
 # Utilisation
     - Import the base.jar file into your java project
